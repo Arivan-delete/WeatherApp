@@ -3,4 +3,6 @@
     <string name="button_add_favourite">Add favourite</string>
     <string name="search">Search</string>
     <string name="upcoming">Upcoming</string>
+    <string name="empty_result_text">Nothing found on your request</string>
+    <string name="something_went_wrong">Something went wrong!</string>
 </resources>
