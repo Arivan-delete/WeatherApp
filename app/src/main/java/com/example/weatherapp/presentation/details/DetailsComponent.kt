@@ -8,5 +8,5 @@ interface DetailsComponent {
 
     fun onClickBack()
 
-    fun onClickChangeFavouriteStatus()
+    fun onClickChangeFavoriteStatus()
 }
