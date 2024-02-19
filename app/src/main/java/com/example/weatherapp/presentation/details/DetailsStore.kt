@@ -13,7 +13,6 @@ import com.example.weatherapp.domain.usecase.ObserveFavoriteStateUseCase
 import com.example.weatherapp.presentation.details.DetailsStore.Intent
 import com.example.weatherapp.presentation.details.DetailsStore.Label
 import com.example.weatherapp.presentation.details.DetailsStore.State
-import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
